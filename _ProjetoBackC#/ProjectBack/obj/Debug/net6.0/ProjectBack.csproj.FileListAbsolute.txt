@@ -1,0 +1,15 @@
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\bin\Debug\net6.0\ProjectBack.exe
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\bin\Debug\net6.0\ProjectBack.deps.json
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\bin\Debug\net6.0\ProjectBack.runtimeconfig.json
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\bin\Debug\net6.0\ProjectBack.dll
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\bin\Debug\net6.0\ProjectBack.pdb
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.csproj.AssemblyReference.cache
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.AssemblyInfoInputs.cache
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.AssemblyInfo.cs
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.csproj.CoreCompileInputs.cache
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.dll
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\refint\ProjectBack.dll
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.pdb
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ProjectBack.genruntimeconfig.cache
+C:\Users\ghast\OneDrive\Área de Trabalho\_ProjetoBackC#\ProjectBack\obj\Debug\net6.0\ref\ProjectBack.dll
